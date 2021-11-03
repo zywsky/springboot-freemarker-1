@@ -13,3 +13,5 @@ https://hellokoding.com/spring-boot-hello-world-example-with-freemarker/
 
 ## Run
 `mvn spring-boot:run`
+
+## successfully  - by zyw 2021.11.04
